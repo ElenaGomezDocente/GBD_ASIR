@@ -2,7 +2,7 @@
 
 Página web de estudio para el módulo **Gestión de Bases de Datos** de **1.º de CFGS Administración de Sistemas Informáticos en Red (ASIR)**.
 
-👉 **Acceso a la página:** https://TU_USUARIO.github.io/gbd-asir/
+👉 **Acceso a la página:** https://ElenaGomezDocente.github.io/gbd-asir/
 
 ---
 
